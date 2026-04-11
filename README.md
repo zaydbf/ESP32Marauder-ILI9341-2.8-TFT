@@ -89,3 +89,20 @@ Documents/Arduino/libraries/
 
 ### 5. Change the config as provided in the image
 <img src="config.png" width="500"> 
+
+
+## Components List
+Below are the hardware components used in this specific build. Refer to the `/images` directory for visual identification.
+
+| Component | Description | Reference Image |
+| :--- | :--- | :--- |
+| **MCU** | ESP32-WROOM-32U (External Antenna Support) | `ESP32-WROOM-32U.jpg` |
+| **Display** | ILI9341 2.8" TFT LCD (Touch + SD Slot) | `ILI9341_screen.jpg` |
+| **Antenna** | 2.4GHz WiFi Antenna + IPEX to RP-SMA Pigtail | `wifi_antenna.jpg` |
+| **Storage** | Micro SD Card (For PCAP saving) | `sd_card.jpg` |
+| **Prototyping** | Breadboard & Male-to-Male Jumper Wires | `bread_board.jpg` |
+| **Interface** | USB Data Cable | `USB-B_caple.jpg` |
+
+
+## Full Build
+<img src="images/full_build.jpg" alt="Full Marauder build" width="300">
