@@ -97,10 +97,10 @@ Below are the hardware components used in this specific build. Refer to the `/im
 | Component | Description | Reference Image |
 | :--- | :--- | :--- |
 | **MCU** | ESP32-WROOM-32U (External Antenna Support) | `ESP32-WROOM-32U.jpg` |
-| **Display** | ILI9341 2.8" TFT LCD (Touch + SD Slot) | `ILI9341_screen.jpg` |
-| **Antenna** | 2.4GHz WiFi Antenna + IPEX to RP-SMA Pigtail | `wifi_antenna.jpg` |
+| **Display** | ILI9341 2.8" TFT LCD (Touch + SD Slot) | `ILI9341_screen.jpg, ILI9341_screen_back.jpg ` |
+| **Antenna** | 2.4GHz WiFi Antenna + IPEX to RP-SMA Pigtail | `wifi_antenna.jpg, IPEX_To_RP-SMA.jpg` |
 | **Storage** | Micro SD Card (For PCAP saving) | `sd_card.jpg` |
-| **Prototyping** | Breadboard & Male-to-Male Jumper Wires | `bread_board.jpg` |
+| **Prototyping** | Breadboard &  Jumper Wires | `bread_board.jpg, cables.jpg` |
 | **Interface** | USB Data Cable | `USB-B_caple.jpg` |
 
 
